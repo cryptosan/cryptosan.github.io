@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Story on Jeff An</title>
-    <link>http://www.example.com/tags/story/</link>
+    <link>//cryptosan.github.io/tags/story/</link>
     <description>Recent content in Story on Jeff An</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-EN</language>
@@ -10,14 +10,14 @@
     <webMaster>yourname@example.com (yourname)</webMaster>
     <copyright>(c) 2016 Jeff An.</copyright>
     <lastBuildDate>Sat, 16 Apr 2016 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://www.example.com/tags/story/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="//cryptosan.github.io/tags/story/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Hugo로 마이그레이션!</title>
-      <link>http://www.example.com/first-article/</link>
+      <link>//cryptosan.github.io/first-article/</link>
       <pubDate>Sat, 16 Apr 2016 00:00:00 +0000</pubDate>
       <author>yourname@example.com (yourname)</author>
-      <guid>http://www.example.com/first-article/</guid>
+      <guid>//cryptosan.github.io/first-article/</guid>
       <description>&lt;p&gt;Medium 블로그의 몇 가지 제약으로 인해 정적 블로그로 이전하려다가, Hugo라는 정적 블로그 생성기를 알게 되어 다시 새로 시작하게 되었다.&lt;br /&gt;
 조만간 데이터 몇개를 이전해야겠다.&lt;/p&gt;
 </description>
