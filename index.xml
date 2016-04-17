@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jeff An</title>
+    <link>http://www.example.com/</link>
+    <description>Recent content on Jeff An</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-EN</language>
+    <managingEditor>yourname@example.com (yourname)</managingEditor>
+    <webMaster>yourname@example.com (yourname)</webMaster>
+    <copyright>(c) 2016 Jeff An.</copyright>
+    <lastBuildDate>Sat, 16 Apr 2016 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://www.example.com/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Hugo로 마이그레이션!</title>
+      <link>http://www.example.com/first-article/</link>
+      <pubDate>Sat, 16 Apr 2016 00:00:00 +0000</pubDate>
+      <author>yourname@example.com (yourname)</author>
+      <guid>http://www.example.com/first-article/</guid>
+      <description>&lt;p&gt;Medium 블로그의 몇 가지 제약으로 인해 정적 블로그로 이전하려다가, Hugo라는 정적 블로그 생성기를 알게 되어 다시 새로 시작하게 되었다.&lt;br /&gt;
+조만간 데이터 몇개를 이전해야겠다.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Who Am I</title>
+      <link>http://www.example.com/about/</link>
+      <pubDate>Sat, 16 Apr 2016 00:00:00 +0000</pubDate>
+      <author>yourname@example.com (yourname)</author>
+      <guid>http://www.example.com/about/</guid>
+      <description>&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Name&lt;/th&gt;
+&lt;th&gt;Yi Soo, An&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;Born in&lt;/td&gt;
+&lt;td&gt;Jun, 1991&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Location&lt;/td&gt;
+&lt;td&gt;South Korea&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Job&lt;/td&gt;
+&lt;td&gt;Student&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;School&lt;/td&gt;
+&lt;td&gt;Hanbat National University, 3rd year&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Majority&lt;/td&gt;
+&lt;td&gt;Computer Science&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Interested in&lt;/td&gt;
+&lt;td&gt;Microprocessor, Embedded System&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;2nd Languages&lt;/td&gt;
+&lt;td&gt;English (Intermediate)&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
